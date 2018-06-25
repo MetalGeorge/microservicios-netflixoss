@@ -10,4 +10,4 @@ Use this way to build the entire project without tests
 ```bash
 $ mvn clean compile package -Dmaven.test.skip=true
 ```
-
+Test EDIT
